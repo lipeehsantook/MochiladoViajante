@@ -1,0 +1,8 @@
+Endereço IP público:179.111.32.212
+
+Que informações podemos obter do nosso endereço MAC?
+PALLADIUM ENERGY ELETRONICA DA AMAZONIA LTDA
+
+Os IPs público e privado pertencem à qual classe de rede?
+Endereço IP público:179.111.32.212=Classe B: 128.0.0.0 até 191.255.255.255 — permite até 16.384 redes, cada uma com até 65.536 dispositivos;
+
